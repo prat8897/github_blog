@@ -10,5 +10,8 @@
   },
   "about.qmd": {
     "about.html": "e2fb1189"
+  },
+  "notebooks/wordle1.ipynb": {
+    "wordle1.html": "7d9d2843"
   }
 }
