@@ -1,5 +1,5 @@
 ---
-title: "github_blog"
+title: "A blog of curious observations among other things"
 listing:
   contents: posts
   sort: "date desc"
